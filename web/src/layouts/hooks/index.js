@@ -1,1 +1,1 @@
-export * from "./useRouteName";
+export * from "src/layouts/hooks/useRouteName";
