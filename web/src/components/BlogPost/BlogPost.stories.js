@@ -4,4 +4,4 @@ export const generated = () => {
   return <BlogPost />
 }
 
-export default { title: 'Components/BlogPost' }
+export default { title: 'src/components/nts/BlogPost' }
